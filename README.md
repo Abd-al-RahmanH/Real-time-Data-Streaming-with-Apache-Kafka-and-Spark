@@ -33,7 +33,7 @@ The project is designed with the following components:
 - Data storage solutions with Cassandra and PostgreSQL
 - Containerizing your entire data engineering setup with Docker
 
-## Technologies
+## Technologies->
 
 - Apache Airflow
 - Python
