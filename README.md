@@ -1,6 +1,6 @@
 # Real-time-Data-Streaming-with-Apache-Kafka-and-Spark
 
-## Table of Contents
+## Table of Contents:
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
 - [What You'll Learn](#what-youll-learn)
