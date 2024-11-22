@@ -1,4 +1,4 @@
-# Real-time-Data-Streaming-with-Apache-Kafka-and-Spark
+#Real-time-Data-Streaming-with-Apache-Kafka-and-Spark:
 
 ## Table of Contents:
 - [Introduction](#introduction)
